@@ -1,0 +1,14 @@
+{
+  "name": "Assignment 1",
+  "version": "1.0.0",
+  "description": "Bookstore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin arkger Nkpwang Ze",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
